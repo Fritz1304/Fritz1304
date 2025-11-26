@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-
+- Java and Springboot developer
 - 🔭 I’m currently working on learning new development skills
 - 🌱 I’m currently learning Python, nodejs, nextjs, reflex, react
 - 👯 I’m looking to collaborate on any project that generate intellectual and economic income for me
